@@ -8,7 +8,7 @@ I'm a Senior Android Developer with over 10 years of experience with mobile soft
 
 * 🌍  I'm based in Granada, Spain
 * 🖥️  See my portfolio at [MyPortfolio](http://serhii-hrabas-potrfolio.web.app/)
-* ✉️  You can contact me at [kerboserhii@gmail.com](mailto:kerboserhii@gmail.com)
+* ✉️  You can contact me at [kerboserhii@gmail.com](mailto:hrabas.serhii@gmail.com)
 * 🧠  I'm learning KMP
 * 🤝  I'm open to collaborating on Android, KMP
 * ⚡  I'm learning to fly drones
